@@ -33,7 +33,7 @@
 
 ### Download
 1. [VMware Workstation](https://www.vmware.com/products/workstation-player.html) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Neopets VM](https://www.mediafire.com/file/qhmguz5m60cfyop/Neo.ova/file)
+2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
 
 **VMware Workstation**
 1. Install and open VMware Workstation.
@@ -61,7 +61,7 @@
 
 ### Download
 1. [VMware Fusion](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Neopets VM](https://www.mediafire.com/file/qhmguz5m60cfyop/Neo.ova/file)
+2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
 
 **VMware Fusion** 
 1. Install and open VMware Fusion.
