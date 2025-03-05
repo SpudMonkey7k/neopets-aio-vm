@@ -31,6 +31,11 @@
 
 ## Windows
 
+>[!IMPORTANT]
+>Make sure to enable virtualization in bios before beginning.
+>For Intel enable VT-x and for AMD enable AMD-V/SVM.
+>Search guide for your computer/motherboard as it's different from computer to computer.
+
 ### Download
 1. [VMware Workstation](https://www.vmware.com/products/workstation-player.html) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
