@@ -5,7 +5,7 @@
 <td colspan="2" align="center"> <b>Operating System</b> </td>
 </tr>
 <tr>
-  <td><a href="https://github.com/SpudMonkey7k/neopets-aio-vm/blob/main/README.md#windows">Windows</a></td><td><a href="https://github.com/SpudMonkey7k/neopets-aio-vm/blob/main/README.md#mac-os-intel">Mac OS Intel</a></td>
+  <td><a href="https://github.com/SpudMonkey7k/neopets-aio-vm/blob/main/README.md#windows">Windows</a></td><td><a href="https://github.com/SpudMonkey7k/neopets-aio-vm/blob/main/README.md#mac-os-intel">Mac OS Intel</a></td><td>Mac OS M Series</td>
 </tr>
 </table>
 
