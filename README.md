@@ -23,10 +23,13 @@
 >**NeoPass**
 >
 >In your default browser, like chrome:
->1. Open developer console (ctrl + shift + i).
+>1. Open developer console.
 >2. Write `document.cookie.split(';').find(c => c.includes('neologin')).trim()` in console, hit enter and you will see something like neologin=youruserxxxxx (don't show anyone this value!!!). 
 >3. Then in Safari/SM visit neopets.com
->4. Open developer console (f12) and write `document.cookie = "yyy"` where yyy is what you got from chrome (neologin=youruserxxxxx). 
+>4. Open developer console and write `document.cookie = "yyy"` where yyy is what you got from chrome (neologin=youruserxxxxx).
+>> in SM, you will need to press `ctrl + shift + i` or go to Tools > Web Development and select `Toggle Tools` to open developer console.
+>>
+>> in Safari, you will need to open `Preferences` then go to `Advanced` and check `Show Develop menu in menu bar` then press `ctrl + alt + c` to open developer console.
 >5. Then refresh and you should be logged in.
 
 ## Windows
