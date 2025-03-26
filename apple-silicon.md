@@ -43,14 +43,18 @@
 
 `brew install qemu`
 
-4. Extract the disk image included in the ova with the following command: 
+4. In Terminal, browse to where the `Neo.ova` is using the following command:
+
+`cd Downloads`
+
+5. Extract the disk image included in the ova with the following command: 
 
 `tar -xvf Neo.ova`
 > Once completed, there should be 3 files generated, .vmdk, .ovf, and .mf files.
 
-5. Converting to .qcow2 using the following command:
+6. Converting to .qcow2 using the following command:
 
-`qemu-img convert -O qcow2 Neo.vmdk Neo.qcow2`
+`qemu-img convert -O qcow2 Neo-disk001.vmdk Neo.qcow2`
 > This will generate the VM file needed to run in UTM
 
 **UTM VM Guide**
