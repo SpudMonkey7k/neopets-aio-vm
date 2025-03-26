@@ -20,6 +20,10 @@
 >**Make sure Fiddler is running at all times when playing games**
 
 >[!Note]
+>head to https://neopets.com/vsilogin.phtml (classic login page) to login. 
+>> Note that you will need to disable your 2fa to login using classic login page. 
+
+>[!Note]
 >**NeoPass**
 >
 >In your default browser, like chrome:
