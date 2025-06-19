@@ -25,7 +25,7 @@
 >5. Then refresh and you should be logged in.
 
 ### Download
-1. [UTM](https://github.com/utmapp/UTM/releases/latest/download/UTM.dmg)
+1. [UTM 4.6.5](https://github.com/utmapp/UTM/releases/latest/download/UTM.dmg)
 2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
 
 >[!Note]
@@ -70,45 +70,44 @@
 
 ![s2](https://github.com/user-attachments/assets/7cfcb429-ea22-4eeb-945f-dd25a13b53b4)
 
-4. Check `Skip ISO boot` and click `Next`.
+4. Under Boot Device select `None` and click `Continue`.
 
-![s3](https://github.com/user-attachments/assets/eef7bdcf-e8b9-48a7-8c8b-a2070204d8be)
+![s3](https://github.com/user-attachments/assets/e48c6176-9f19-42c9-ba1e-33502eb864b4)
 
-5. Set Memory to be at least `2048 MB`.
+5. Default hardware should be fine, adjust if you'd like but `2048MB` minimmum of memory is required.
 
-![s4](https://github.com/user-attachments/assets/aa6b33bc-8761-4b53-8c82-4c4f9dc19375)
+![s4](https://github.com/user-attachments/assets/75fadcf2-087a-4a74-b2a1-2584ce897d50)
 
-6. Set Storage Size to be at least `11GB`.
+6. Set Storage Size to be `11GB`.
 
-![s6](https://github.com/user-attachments/assets/ec34646d-5f24-45ed-8e89-adcf45d0cad3)
+![s6](https://github.com/user-attachments/assets/33259fbf-13e2-4d40-9a52-3fd78667abcc)
 
 7. There is no need to create a Shared Directory, simply click `Next` to move to the next step.
 
 ![s7](https://github.com/user-attachments/assets/f0d3d0e4-b95e-45d8-b2ba-2c334adbae56)
 
-8. On the summary page, give the VM a name and click `Save`.
+8. On the summary page, give the VM a name, check `Open VM Settings`, and click `Save`.
 
-![s8](https://github.com/user-attachments/assets/7e5b1b14-ad7c-41ee-8104-0191427aae20)
+![s8](https://github.com/user-attachments/assets/f1465c5e-00e7-4596-9251-e8d7735fba6c)
 
-9. Right click on the machine that you created and click `Edit`.
+9. Select `QEMU` from the sidebar and uncheck `UEFI Boot`.
 
-![s9](https://github.com/user-attachments/assets/414e8cea-b12d-485d-bd19-588900a99df9)
+![s9](https://github.com/user-attachments/assets/1461a2e1-e724-46a7-a454-862a188d6dc9)
 
-10. Uncheck `UEFI Boot`.
+10. Under `Drives` in the sidebar, select `IDE Drive` then click `Delete`.
 
-![s10](https://github.com/user-attachments/assets/703fdda1-4270-4aad-856e-8be33081eeaa)
+![s10](https://github.com/user-attachments/assets/c9b5118a-965d-49f4-b5fa-4f798afa72c8)
 
-11. Then select `New Drive` from the sidebar. In the window that pops up, set Interface to `IDE` and size to `10GB` then click `Import`.
+11.  Under `Drives` in the sidebar, select `New Drive`. In the window that pops up, set Interface to `IDE` and size to `10GB` then click `Import`.
 
-![s11](https://github.com/user-attachments/assets/6eacc945-51e3-4417-b56d-242287ff0a86)
+![s11](https://github.com/user-attachments/assets/73877f10-3789-47fb-a3c0-e5da9e8b67bf)
 
 12. In the window that pops up, select the .qcow2 file that you created and press `Open`. 
 
-![s12](https://github.com/user-attachments/assets/a6099a6f-1dc9-4855-b60b-e8fc42368011)
+![s12](https://github.com/user-attachments/assets/8a02cefa-bdc7-43c2-8639-bc476761bbac)
 
-13. When it finishes loading, drag the IDE Drive to the top of the Drives list and click `Save`.
+13. When it finishes loading, click `Save`.
 
-![s13](https://github.com/user-attachments/assets/5ac4afa8-3419-470b-8a96-739f330f2ff7)
-> Note that the IDE Drive must be at the top of the list or you won't be able to boot!
+![s13](https://github.com/user-attachments/assets/01bf1ecc-5506-40c2-91f1-05a86972ac89)
 
 14. Start the VM. 
