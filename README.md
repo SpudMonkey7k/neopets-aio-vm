@@ -10,7 +10,7 @@
 </table>
 
 >[!Important]
->The VM uses 2GB ram and 10GB storage.
+>The VM uses 4GB ram and 10GB storage.
 >
 >This VM already has Flash, Shockwave, 3dvia, and Fiddler already setup.
 >There are 2 browsers installed, Safari and Seamonkey.
@@ -45,7 +45,7 @@
 
 ### Download
 1. [VMware Workstation](https://www.vmware.com/products/workstation-player.html) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
+2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9)
 
 **VMware Workstation**
 1. Install and open VMware Workstation.
@@ -73,7 +73,7 @@
 
 ### Download
 1. [VMware Fusion](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
+2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9)
 
 **VMware Fusion** 
 1. Install and open VMware Fusion.
