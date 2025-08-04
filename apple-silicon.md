@@ -1,7 +1,7 @@
 ## Mac OS Apple Silicon Guide
 
 >[!Important]
->The VM uses 2GB ram and 10GB storage.
+>The VM uses 4GB ram and 10GB storage.
 >
 >This VM already has Flash, Shockwave, 3dvia, and Fiddler already setup.
 >There are 2 browsers installed, Safari and Seamonkey.
@@ -26,7 +26,7 @@
 
 ### Download
 1. [UTM 4.6.5](https://github.com/utmapp/UTM/releases/latest/download/UTM.dmg)
-2. [Neopets VM](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
+2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9)
 
 >[!Note]
 >This guide has two parts:
@@ -74,7 +74,7 @@
 
 ![s3](https://github.com/user-attachments/assets/e48c6176-9f19-42c9-ba1e-33502eb864b4)
 
-5. Default hardware should be fine, adjust if you'd like but `2048MB` minimmum of memory is required.
+5. Default hardware should be fine, adjust if you'd like but `4096MB` minimmum of memory is required.
 
 ![s4](https://github.com/user-attachments/assets/75fadcf2-087a-4a74-b2a1-2584ce897d50)
 
