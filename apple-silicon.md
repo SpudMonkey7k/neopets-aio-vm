@@ -26,7 +26,7 @@
 
 ### Download
 1. [UTM 4.6.5](https://github.com/utmapp/UTM/releases/latest/download/UTM.dmg)
-2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9)
+2. [Neopets VM Win11](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9) or [Neopets VM Win10](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
 
 >[!Note]
 >This guide has two parts:
