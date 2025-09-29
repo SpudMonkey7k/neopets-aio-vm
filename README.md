@@ -45,7 +45,7 @@
 
 ### Download
 1. [VMware Workstation](https://www.vmware.com/products/workstation-player.html) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9)
+2. [Neopets VM Win11](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9) or [Neopets VM Win10](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
 
 **VMware Workstation**
 1. Install and open VMware Workstation.
@@ -73,7 +73,7 @@
 
 ### Download
 1. [VMware Fusion](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9)
+2. [Neopets VM](https://drive.proton.me/urls/3EYN0REJDM#Mn03YI2nMYW9) or [Neopets VM Win10](https://www.mediafire.com/file/wslhbasvmx1a3mz/Neo.ova/file)
 
 **VMware Fusion** 
 1. Install and open VMware Fusion.
