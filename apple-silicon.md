@@ -110,4 +110,9 @@
 
 ![s13](https://github.com/user-attachments/assets/01bf1ecc-5506-40c2-91f1-05a86972ac89)
 
-14. Start the VM. 
+14. Start the VM.
+
+> [!TIP] 
+> If you are having network conneciton issues, under `Network` change `Shared Network (default)` to `Emulated VLAN`
+>
+> 
